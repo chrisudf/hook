@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import { Header, Icon, List } from 'semantic-ui-react'
+import EmployeeDoc from '../../../src/employee_documents_example.json'
 // import './App.css';
 
 class App extends Component{
@@ -9,6 +10,7 @@ class App extends Component{
   componentDidMount(){
     this.setState({
       documents:[{id:1,name:'value 101'},{id:2,name:'value 102'}]
+      // documents:EmployeeDoc
     })
   }
   render(){
@@ -20,7 +22,7 @@ class App extends Component{
           </Header>
           <List>
             {this.state.documents.map((document)=>(
-              <List.Item>{document.name}</List.Item>
+              <List.Item>{document}</List.Item>
             ))}
           </List>
       </div>

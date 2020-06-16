@@ -1,0 +1,151 @@
+{
+    "employeeDocuments": [
+        {
+            "id": "100EE50D-E24B-444D-974B-A3D621659979",
+            "name": "Employment Contract"
+        },
+        {
+            "id": "A6EA3616-94B0-4744-845B-CC567786A636",
+            "name": "Some Other Document"
+        }
+    ],
+    "companyDocumentCategories": [
+        {
+            "id": 1,
+            "name": "Recruitment, Selection & Induction"
+        },
+        {
+            "id": 2,
+            "name": "Workplace Culture"
+        },
+        {
+            "id": 3,
+            "name": "Employee Development"
+        },
+        {
+            "id": 4,
+            "name": "Employee Management"
+        },
+        {
+            "id": 5,
+            "name": "Workplace Health & Safety"
+        }
+    ],
+    "companyDocuments": [
+        {
+            "id": "BE6927D7-C0E7-4A40-997D-88C04C40D0E3",
+            "name": "Recruitment, Selection & Induction Policy",
+            "category": 1
+        },
+        {
+            "id": "C7830688-B5FF-4D57-8881-9685E8327C75",
+            "name": "Recruitment and Selection Procedure",
+            "category": 1
+        },
+        {
+            "id": "37321A48-E22E-43CD-8850-C42E6E089771",
+            "name": "Induction Procedure",
+            "category": 1
+        },
+        {
+            "id": "BE63C03C-6710-45AA-9C2C-CA2031ADDA0E",
+            "name": "Fair Treatment at Work & Whistleblower Policy",
+            "category": 2
+        },
+        {
+            "id": "92192C95-9D37-4F06-A72A-42806140B546",
+            "name": "Discrimination, Harassment, Bullying and Victimisation Procedure",
+            "category": 2
+        },
+        {
+            "id": "4B2ED5AA-0B4F-44DA-B85E-61C1A28F81C8",
+            "name": "Equal Employment Opportunity Procedure",
+            "category": 2
+        },
+        {
+            "id": "2C5BCCC7-A20A-4C59-B368-73DFCB79D28C",
+            "name": "Managing Employment Incidents, Complaints Procedure",
+            "category": 2
+        },
+        {
+            "id": "EF94915A-AECD-4567-ABFA-26CC3EFE7E23",
+            "name": "Code of Conduct",
+            "category": 2
+        },
+        {
+            "id": "B2E9F76A-C4BD-44F2-A044-E8AA7DCBF954",
+            "name": "Corporate and Environmental Sustainability Policy",
+            "category": 2
+        },
+        {
+            "id": "775201C9-D2D2-47FB-82EF-FC2CF9303CAD",
+            "name": "Learning and Development Policy",
+            "category": 3
+        },
+        {
+            "id": "7C9031C5-70D1-4D6D-9737-C7D5CD6A70F3",
+            "name": "Employee Performance Procedure",
+            "category": 3
+        },
+        {
+            "id": "CDB4433A-115C-42AD-8A65-C635E9A6CDBF",
+            "name": "Training, Development and Further Education Procedure",
+            "category": 3
+        },
+        {
+            "id": "064AE8BC-BBAE-4B1D-B81F-5F0F47AB70AA",
+            "name": "Professional Membership and Accreditation Procedure",
+            "category": 3
+        },
+        {
+            "id": "F8CF3222-BE42-4898-8A10-F1C4BB2CA098",
+            "name": "Terms and Conditions of Employment Policy",
+            "category": 4
+        },
+        {
+            "id": "A5A5E656-B89F-46D6-AE2B-77C7A45D7B8D",
+            "name": "Travel Procedur",
+            "category": 4
+        },
+        {
+            "id": "4BB817F7-24EB-48BB-83A9-14865717603E",
+            "name": "Social Media Procedure ",
+            "category": 4
+        },
+        {
+            "id": "8D1B7300-48CE-4A74-91DB-E54587FF3C28",
+            "name": "Mental Health Procedure",
+            "category": 4
+        },
+        {
+            "id": "8C733740-9E00-40D7-8289-0DFB6AA4A4ED",
+            "name": "Safety Policy",
+            "category": 5
+        },
+        {
+            "id": "135CDF39-2D61-46DC-8C2C-1FA7E85D61C5",
+            "name": "Safety Policy Statement",
+            "category": 5
+        },
+        {
+            "id": "2BA3A77E-ED44-4FF4-B24C-CE42D0653B13",
+            "name": "Drug and Alcohol Procedure - No Screening",
+            "category": 5
+        },
+        {
+            "id": "A9C55452-252D-40D6-BD78-11567B9A201B",
+            "name": "Drug and Alcohol Procedure - Screening",
+            "category": 5
+        },
+        {
+            "id": "ABAEA418-0EAB-4DEA-99B8-25D136974E1B",
+            "name": "Emergency Preparedness and Response Procedure",
+            "category": 5
+        },
+        {
+            "id": "9D9D0EB6-6FF7-42F5-B201-DB21F8D2ACA2",
+            "name": "First Aid Procedure",
+            "category": 5
+        }
+    ]
+}
