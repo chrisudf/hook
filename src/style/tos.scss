@@ -1,0 +1,15 @@
+@import './color';
+
+.tos {
+  background-color: $background-color;
+  min-height: 100vh;
+  padding:5vh 0;
+  display: flex;
+  align-items: center;
+
+  .tos-container {
+    padding: 2em 1em;
+    background-color: $container-color;
+    text-align: center;
+  }
+}

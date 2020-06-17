@@ -1,0 +1,29 @@
+@import './color';
+
+.index {
+  background-color: $background-color;
+  min-height: 100vh;
+  padding: 5vh;
+  
+  .index-container {
+    min-height: 90vh;
+    padding: 2em;
+    background-color: $container-color;
+
+    .separate-line {
+      border: none;
+      height: 1px;
+      color: darkgray;
+      background-color: darkgray;
+    }
+
+    .folder-list {
+      margin: 5px 15px 0 15px;
+
+      .folder-list-item {
+        padding: 10px;
+        border-bottom: 0.2px dotted darkgray;
+      }
+    }
+  }
+}
